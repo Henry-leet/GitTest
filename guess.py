@@ -8,6 +8,7 @@
 
 import random
 
+
 if __name__ == '__main__':
     answer = random.randint(1, 100)
     counter = 0
